@@ -12,6 +12,8 @@ struct ContentView: View {
     @State var date = Date()
     @State private var selection = 2     //to set home as the default tab
     var body: some View {
+        
+        //testing comment
         ZStack{
             TabView(selection:$selection) {
                 
