@@ -9,7 +9,7 @@ import SwiftUI
 
 struct TriviaButton: View {
     var body: some View {
-        Text("The button works fuck")
+        Text("The button works too")
             .offset(y:-300)
     }
 }
