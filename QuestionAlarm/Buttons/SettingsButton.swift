@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SettingsButton: View {
     var body: some View {
-        Text("The button works fucktard")
+        Text("The button works")
             .offset(y:-300)
     }
 }
