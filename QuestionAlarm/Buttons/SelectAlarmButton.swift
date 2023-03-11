@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SelectAlarmButton: View {
     var body: some View {
-        Text("The button works fuckface")
+        Text("The button works fine")
             .offset(y:-300)
     }
 }
