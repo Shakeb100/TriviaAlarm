@@ -1,6 +1,6 @@
 
 # Trivia Alarm ⏰🧠🔥
-Trivia Alarm is an Android app that aims to help users wake up with a fresh mind by testing their knowledge through a series of trivia questions pulled from a public API. The app allows users to set an alarm that will only turn off when they answer a certain number of questions correctly. Development in progress
+Trivia Alarm is an IOS app that aims to help users wake up with a fresh mind by testing their knowledge through a series of trivia questions pulled from a public API. The app allows users to set an alarm that will only turn off when they answer a certain number of questions correctly. Development in progress.
 
 ## Features 🚀
 - Set alarm to ring at a specific time
