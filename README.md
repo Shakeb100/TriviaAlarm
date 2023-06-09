@@ -12,5 +12,3 @@ Trivia Alarm is an IOS app that aims to help users wake up with a fresh mind by 
 - Swift
 - SwiftUI
 - Xcode
-
-Development is currently on pause.
